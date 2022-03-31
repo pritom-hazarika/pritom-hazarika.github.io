@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/pritom-hazarika/pritom-hazarika.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello, I am a Software Engineer at Dolcera. I am currently working in the data science team. I extract data, clean it, analyze it and train Machine Learning models to find useful information to make decisions. I have experience using Python, SQL, Neo4j, Scikit Learn, TensorFlow, Beautiful Soup, Selenium, Flask, Pandas, NumPy and Excel. I strive to learn new languages, frameworks, and principles in order to master my craft.
 
 ### Markdown
 
@@ -10,8 +8,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-# Pritom Hazarika
-### Webpage under construction 
 # Header 1
 ## Header 2
 ### Header 3
