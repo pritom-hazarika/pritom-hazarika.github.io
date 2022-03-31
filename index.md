@@ -1,5 +1,5 @@
 ## Welcome to My GitHub Pages
-![Image]('image/Pritom Hazarika.jpg')
+![Image](https://github.com/pritom-hazarika/pritom-hazarika.github.io/blob/main/image/Pritom%20Hazarika.jpg)
 
 Hello, I am a Software Engineer at Dolcera. I am currently working in the data science team. I extract data, clean it, analyze it and train Machine Learning models to find useful information to make decisions. I have experience using Python, SQL, Neo4j, Scikit Learn, TensorFlow, Beautiful Soup, Selenium, Flask, Pandas, NumPy and Excel. I strive to learn new languages, frameworks, and principles in order to master my craft.
 
